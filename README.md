@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @0000100126648
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with my life
+- 👋 Hi, I’m Stoleru Roman
+- 👀 I’m interested in learning HTML,CSS,JavaScript
+- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 💞️ I’m looking to collaborate with Wrold
 - 📫 How to reach me Roman
 
 <!---
